@@ -11,4 +11,4 @@ Incluye una foto de perfil circular, secciones para Datos Personales y más. [Ve
 1. Clona este repositorio:
 
    ```bash
-   git clone enlace-a-tu-repositorio
+   git clone https://github.com/juanruizgalileo/plantilla-cv.git
