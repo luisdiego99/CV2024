@@ -4,7 +4,7 @@ Este es un currículum vitae simple y responsive en formato HTML y CSS. Puedes u
 
 ## Vista previa
 
-Incluye una foto de perfil circular, secciones para Datos Personales y más. [Ver Demo](juanruiz.github.io)
+Incluye una foto de perfil circular, secciones para Datos Personales y más. [Ver Demo](https://juanruizgalileo.github.io/)
 
 ## Cómo Usar
 
